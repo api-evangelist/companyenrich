@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CompanyEnrich is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://companyenrich.com
+CompanyEnrich provides real-time B2B data APIs that enrich company and people information for AI agents and platforms. Its services include company enrichment, company search, people search, CRM enrichment, similar companies discovery, reverse email lookup, funding data, ad intelligence, job listings, and headcount insights. The APIs return verified firmographics, technology stacks, funding rounds, and contact details, enabling developers to build intelligent business intelligence and automation solutions.
+
+**Areas:** Company · B2B · Data · Data Enrichment · Artificial Intelligence
+
+## CompanyEnrich on APIs.io
+
+Everything profiled for CompanyEnrich is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/companyenrich/](https://apis.io/providers/companyenrich/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [CompanyEnrich API](https://apis.io/apis/companyenrich/companyenrich-api/) — Real-time B2B data enrichment API providing company and people information.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Companyenrich Authentication](https://apis.io/security/companyenrich/companyenrich-authentication/)
+- [Companyenrich Domain Security](https://apis.io/security/companyenrich/companyenrich-domain-security/)
+- [Companyenrich Trust Center](https://apis.io/security/companyenrich/companyenrich-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Companyenrich Plans Pricing](https://apis.io/plans/companyenrich/companyenrich-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Companyenrich Rate Limits](https://apis.io/rate-limits/companyenrich/companyenrich-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://companyenrich.com)
+- [Documentation](https://docs.companyenrich.com)
+- [Getting started](https://docs.companyenrich.com/docs/getting-started)
+- [API reference](https://docs.companyenrich.com/reference)
+- [Pricing](https://companyenrich.com/pricing)
+- [Support](https://help.companyenrich.com)
+- [Changelog](https://docs.companyenrich.com/changelog)
+- [Blog](https://companyenrich.com/blog/)
+- [Compliance](https://companyenrich.com/trust)
+- [Terms of service](https://companyenrich.com/terms-and-conditions)
+- [Privacy policy](https://companyenrich.com/privacy-policy)
+- [GitHub](https://github.com/companyenrich)
+- [Status](https://companyenrich.statuspage.io)
+
+## API Evangelist rating
+
+**Kin Score 42.2** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 68.3 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 68.4 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 78.9 |
+
+**Agent readiness 30.7** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/companyenrich/](https://apis.io/providers/companyenrich/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CompanyEnrich: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/companyenrich/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
